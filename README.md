@@ -9,7 +9,7 @@
 - 🏦 I'm Machine Learning Engineer  working for the Engineer Hut startup in Bangladesh 
 - 📄 Know about my experiences: I have more than one year of experience as a Python Web Developer (Django) and I have worked on the "Inventory Management System" Django web-based application for Rana Motors, which allowed me to gain valuable insights into web development and database management.
   
-- 💻 I use daily: [.py,.ipynb,.sql,.js](.py,.ipynb,.sql,.js)
+- 💻 I use daily: [.py, .ipynb, .sql, .js](.py,.ipynb,.sql,.js)
 
 - 📫 How to reach me **i.amshamim94@gmail.com**
 
