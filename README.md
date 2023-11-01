@@ -1,3 +1,4 @@
+<img align="center" alt="coding" src="bpxxqqvps4h91.gif" />
 <h1 align="center">Hi 👋, I'm Shamim Khaled</h1>
 <h3 align="center">A passionate Python Developer and ML Engineer from Bangladesh</h3>
 
