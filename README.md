@@ -15,6 +15,8 @@
 - 📫 How to reach me **i.amshamim94@gmail.com**
 
 - 👯 We can connect to play some games of PES ⚽
+- ⚡ Fun fact I am Funny
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
