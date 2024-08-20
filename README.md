@@ -7,8 +7,8 @@
 <img align="right" alt="coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 ## About Me
-- 🏦 I'm a Python Developer with 2 years of hands-on experience in web applications and backend systems. Skilled at writing clear, concise code that is easy to maintain and troubleshoot.
-- 📄 Know about my experiences: I have worked as an ML Engineer at the Engineer Hut startup, and I also worked as a Python Web Developer (Django) at Rana Motors. Here, I worked on the "Inventory Management System" Django web-based application for Rana Motors, which allowed me to gain valuable insights into web development and database management.
+- 🏦 I'm a Python Developer with 2 years of hands-on experience in Python development. Skilled at writing clear, concise code that is easy to maintain and troubleshoot.
+
   
 - 💻 I use daily: [.py, .ipynb, .sql, .js](.py,.ipynb,.sql,.js)
 
