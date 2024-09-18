@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimkhaled&label=Profile%20views&color=0e75b6&style=flat" alt="shamimkhaled" /> </p>
-<img align="right" alt="coding" src="bpxxqqvps4h91.gif" />
+<!-- <img align="right" alt="coding" src="bpxxqqvps4h91.gif" /> -->
 
 ## About Me
 - 🏦 I'm a Python Developer with 2 years of hands-on experience in Python development. Skilled at writing clear, concise code that is easy to maintain and troubleshoot.
